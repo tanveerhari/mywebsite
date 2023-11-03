@@ -81,3 +81,10 @@ header {
     font-weight: bold; 
 	text-align: center;
 }
+
+.container {
+	color: black;
+	font-family: sans-serif; 
+    --font-weight: bold; 
+	text-align: center;
+}
